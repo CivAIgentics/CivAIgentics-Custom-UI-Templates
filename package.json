@@ -1,0 +1,29 @@
+{
+  "name": "civaigentics-custom-ui-templates",
+  "version": "1.0.0",
+  "description": "Custom UI Templates and Components for Next.js applications with AI conversational interfaces",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.2.32",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "ui-components",
+    "ai-conversational",
+    "templates",
+    "civaigentics"
+  ],
+  "author": "CivAIgentics",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CivAIgentics/CivAIgentics-Custom-UI-Templates.git"
+  }
+}
